@@ -1,0 +1,9 @@
+name: D324 Gutenberg Slideshow Block
+project: d324_gutenberg_slideshow_block
+type: module
+description: Example block for D324 Gutenberg.
+package: D324
+core: 8.x
+dependencies:
+  - gutenberg
+  - d324_gutenberg

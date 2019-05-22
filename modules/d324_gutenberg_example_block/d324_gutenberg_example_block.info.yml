@@ -1,0 +1,9 @@
+name: D324 Gutenberg Example Block
+project: d324_gutenberg_example_block
+type: module
+description: Example block for D324 Gutenberg.
+package: D324
+core: 8.x
+dependencies:
+  - gutenberg
+  - d324_gutenberg

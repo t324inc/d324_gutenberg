@@ -1,0 +1,5 @@
+services:
+  d324_gutenberg.route_subscriber:
+    class: Drupal\d324_gutenberg\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }

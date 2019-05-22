@@ -1,0 +1,6 @@
+# Libraries to be injected on editor (node edit)
+libraries-edit:
+  - d324_gutenberg_example_block/block-edit
+# Libraries to be injected on node view
+libraries-view:
+  - d324_gutenberg_example_block/block-view
